@@ -1,0 +1,9 @@
+/assets/img/category_thumbnails/*
+!/assets/img/category_thumbnails/.gitkeep
+!/assets/img/category_thumbnails/default.jpg
+/assets/img/featured_images/*
+!/assets/img/featured_images/.gitkeep
+!/assets/img/featured_images/default.jpg
+/assets/img/profile_pictures/*
+!/assets/img/profile_pictures/.gitkeep
+!/assets/img/profile_pictures/default.jpg
