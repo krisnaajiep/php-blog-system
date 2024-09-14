@@ -56,4 +56,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 If you have any questions or suggestions, feel free to reach out:
 
 - Email: krisnaajiep@gmail.com
-- GitHub: krisnaajie(https://github.com/krisnaajirp)
+- GitHub: krisnaajie(https://github.com/krisnaajiep)
